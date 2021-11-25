@@ -1,14 +1,14 @@
-### Hello word! Eu sou Aline Nogueira! 👋
+### Hello word! I'm Aline Nogueira! 👋
 
-- 🎓 Atualmente estou cursando Analise e Desenvolvimento de Sisitemas - UNINTER
-- 😄 studando Python
-- 🔭 Estou a procura de uma oportunidade no mercado de trabalho
+- 🎓 I am currently studying Systems Analysis and Development - UNINTER
+- 😄 studying Python
+- 🔭 I'm looking for an opportunity in the job market
 ##
 
 <div align="center">
   <a href="https://github.com/alinenog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinenog&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinenog&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinenog&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinenog&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 
