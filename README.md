@@ -1,4 +1,4 @@
-### Hello word! I'm Aline Nogueira! 👋
+### Hello world! I'm Aline Nogueira! 👋
 
 - 🎓 I am currently studying Systems Analysis and Development - UNINTER
 - 💻 studying Python
