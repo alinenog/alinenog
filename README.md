@@ -1,7 +1,7 @@
 ### Hello world! I'm Aline Nogueira! 👋
 
 - 🎓 I am currently studying Systems Analysis and Development - UNINTER
-- 💻 studying Python
+- 💻 studying Python, Html5, Css, JavaScript
 - 🔭 I'm looking for an opportunity in the job market
 ##
 
