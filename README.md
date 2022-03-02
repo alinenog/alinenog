@@ -1,7 +1,7 @@
 ### Hello world! I'm Aline Nogueira! 👋
 
 - 🎓 I am currently studying Systems Analysis and Development - UNINTER
-- 💻 studying Python, Anlise de dados, Sql Server, Power BI,
+- 💻 studying Python, data analysis, Sql Server, Power BI,
 - 🔭 I'm looking for an opportunity in the job market
 ##
 
