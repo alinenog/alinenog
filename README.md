@@ -3,7 +3,7 @@
 - 🎓 I am currently studying Systems Analysis and Development - UNINTER
 - 💻 Student Data Analyst | Data Scientist | Business Intelligence | BI Analyst 
 - 🔭 I'm looking for an opportunity in the job market
-Curriculo https://alinenog.github.io/
+- Curriculo https://alinenog.github.io/
 ##
 
 <div align="center">
