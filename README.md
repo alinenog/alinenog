@@ -1,15 +1,19 @@
 ### Hello world! I'm Aline Nogueira! 👋
 
-- 🎓 Recently graduated in Systems Analysis and Development - UNINTER
-- 💻 Student Data Analyst | Data Scientist | Business Intelligence | BI Analyst 
-- 🔭 I'm looking for an opportunity in the job market
-- Curriculo https://alinenog.github.io/
-##
+<div>
+  <ul>  
+    <li> 🎓 Recently graduated in Systems Analysis and Development - UNINTER </li>
+    <li> 💻 Student Data Analyst | Data Scientist | Business Intelligence | BI Analyst </li>
+    <li> 🔭 I'm looking for an opportunity in the job market</li>
+    <li> ✳️ Link to access curriculum <a href="https://alinenog.github.io/" target="_blank">Curriculum</a> </li>
+  </ul>  
+</div> 
 
 <div align="center">
   <a href="https://github.com/alinenog">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinenog&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinenog&layout=compact&langs_count=7&theme=radical"/>
+    
 </div>
   
 
