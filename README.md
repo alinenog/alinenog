@@ -1,4 +1,4 @@
-### Aline Nogueira 👩‍💻
+### Aline Nogueira 👩🏻‍💻
 
 <div>
   <ul>  
