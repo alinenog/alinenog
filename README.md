@@ -4,7 +4,7 @@
   <ul>  
     <li> 🎓 Recently graduated in Systems Analysis and Development - UNINTER </li>
     <li> 💻 Student Data Analyst | Data Scientist | Business Intelligence | BI Analyst </li>
-    <li> 🔭 I am looking for an opportunity in the job market in the field of data </li>
+    <li> 🔭 I am looking for an opportunity in the job market </li>
     <li> ✳️ Link to access curriculum <a href="https://alinenog.github.io/" target="_blank">Curriculum</a> </li>
   </ul>  
 </div> 
