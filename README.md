@@ -1,10 +1,10 @@
-### Aline Nogueira 👩🏻‍💻
+### Aline Nogueir@ 👩🏻‍💻
 
 <div>
   <ul>  
-    <li> 🎓 Recently graduated in Systems Analysis and Development - UNINTER </li>
-    <li> 💻 Student Data Analyst | Data Scientist | Business Intelligence | BI Analyst </li>
-    <li> 🔭 I am looking for an opportunity in the job market </li>
+    <li> 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas - UNINTER </li>
+    <li> 💻 Cursando Pós em Defesa Cibernética - VINCIT </li>
+    <li> 🔭 Aberta a oportunidade na área de segurança da informação </li>
     <li> ✳️ Link to access curriculum <a href="https://alinenog.github.io/" target="_blank">Curriculum</a> </li>
   </ul>  
 </div> 
@@ -16,13 +16,15 @@
 </div>
   
 
-   </div>
+ </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Aline" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/3d/4d/78/3d4d784c1ca4fe7353d284f2929910e9.gif">
+  <img align="center" alt="Aline-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Aline-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Aline-Linux" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
  
  ##
@@ -32,7 +34,7 @@
   <a href = "mailto:alineenogueira269@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Pandora#7820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
- 
+ <!--https://devicon.dev/-->
   ![Snake animation](https://github.com/alinenog/alinenog/blob/output/github-contribution-grid-snake.svg)
  
 </div>
