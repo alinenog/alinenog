@@ -4,7 +4,7 @@
   <ul>  
     <li> 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas - UNINTER </li>
     <li> 💻 Cursando Pós em Defesa Cibernética - VINCIT </li>
-    <li> 🔭 Aberta a oportunidade na área de segurança da informação </li>
+    <li> 🔭 Analista de Cyber Security em formação </li>
     <li> ✳️ Link to access curriculum <a href="https://alinenog.github.io/" target="_blank">Curriculum</a> </li>
   </ul>  
 </div> 
