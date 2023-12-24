@@ -1,18 +1,23 @@
-### Aline Nogueir@ 👩🏻‍💻
+### 👩🏻‍💻 whoami...
+ Aline Nogueir@  
 
 <div>
   <ul>  
-    <li> 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas - UNINTER </li>
-    <li> 💻 Cursando Pós em Defesa Cibernética - VINCIT </li>
-    <li> 🔭 Analista de Cyber Security em formação </li>
+    <li> 🔭 Analista de Cyber Security em formação 👩🏻‍💻 </li>
+    <li> 👩‍🎓 Formada em Análise e Desenvolvimento de sistemas - UNINTER 2022</li>
+    <li> 💻 Pós em Defesa Cibernética - VINCIT  2023</li>
+    <li> 🔭 Bolsista na CECyber 2023/2024</li>
     <li> ✳️ Link to access curriculum <a href="https://alinenog.github.io/" target="_blank">Curriculum</a> </li>
   </ul>  
+  </br></br>
 </div> 
 
 <div align="center">
   <a href="https://github.com/alinenog">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinenog&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinenog&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinenog&show_icons=true&theme=neon&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinenog&layout=compact&langs_count=7&theme=neon"/>
+  </br>
+  </br>
 </div>
   
 
@@ -25,7 +30,7 @@
   <img align="center" alt="Aline-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Aline-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Aline-Linux" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+ </div>
  
  ##
    
@@ -35,7 +40,7 @@
   <a href="https://discord.gg/Pandora#7820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
  <!--https://devicon.dev/-->
-  ![Snake animation](https://github.com/alinenog/alinenog/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/alinenog/alinenog/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
  
