@@ -38,9 +38,8 @@
   <a href="https://www.linkedin.com/in/aline-nogueira-991156138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alineenogueira269@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Pandora#7820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- <!--https://devicon.dev/-->
- <!--![Snake animation](https://github.com/alinenog/alinenog/blob/output/github-contribution-grid-snake.svg)-->
+ </div>
+
  ![snake gif](https://github.com/alinenog/alinenog/blob/output/github-contribution-grid-snake.svg)
-</div>
+
  
